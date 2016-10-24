@@ -1,0 +1,7 @@
+{
+    "name": "Debounce",
+    "version": "0.0.1",
+    "author": "David Washington <github:dwcares>; Thomas Ouellet Fredericks <github:thomasfredericks>;",
+    "license": "MIT",
+    "description": "Debounce digital inputs"
+}
